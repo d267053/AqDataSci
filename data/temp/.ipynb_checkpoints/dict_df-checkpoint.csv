@@ -1,0 +1,26 @@
+,from,to
+0,ÅR,YEAR
+1,MÅNED_KODE,Month_code
+2,MÅNED,MONTH
+3,FYLKE,County
+4,ARTSID,Species
+5,UTSETTSÅR,Release
+6,BEHFISK_STK,BeHFISK_STK
+7,BIOMASSE_KG,Biomass_kg
+8,UTSETT_SMOLT_STK,Postpone_smolt_stk
+9,FORFORBRUK_KG,Pre -use_kg
+10,UTTAK_STK,Outlet_stk
+11,UTTAK_KG,Outlet_kg
+12,DØDFISK_STK,Deadfisk_stk
+13,UTKAST_STK,Draft_stk
+14,RØMMING_STK,Escape_stk
+15,ANDRE_STK,Andre_stk
+16,MØRE OG ROMSDAL,MØRE AND ROMSDAL
+17,NORDLAND,Nordland
+18,ROGALAND OG AGDER,Rogaland and Agder
+19,TROMS OG FINNMARK,Troms and Finnmark
+20,TRØNDELAG,Trøndelag
+21,VESTLAND,Westland
+22,UOPPGITT,Unspoked
+23,LAKS,SALMON
+24,REGNBUEØRRET,Rainbow
