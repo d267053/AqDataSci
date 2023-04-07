@@ -1,6 +1,6 @@
 from,to
 AGDER,6_ROGALAND OG AGDER
-ANDRE_STK,andre_stk
+ANDRE_STK,other_stk
 APRIL,04
 ARTSID,species
 AUGUST,08
@@ -41,8 +41,8 @@ UOPPGITT,unspecified
 UTKAST_STK,draft_stk
 UTSETTSÅR,release
 UTSETT_SMOLT_STK,postpone_smolt_stk
-UTTAK_KG,outlet_kg
-UTTAK_STK,outlet_stk
+UTTAK_KG,withdrawal_kg
+UTTAK_STK,withdrawal_stk
 VEST-AGDER,6_ROGALAND OG AGDER
 VESTFOLD OG TELEMARK,7_VESTFOLD OG TELEMARK
 VESTLAND,5_VESTLAND
