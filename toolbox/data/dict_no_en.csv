@@ -1,4 +1,21 @@
 from,to
+NORDLAND,2_nordland
+VESTLAND,5_vestland
+TROMS OG FINNMARK,1_troms og finnmark
+AGDER,6_rogaland og agder
+TRØNDELAG,3_trøndelag
+ROGALAND,6_rogaland og agder
+VIKEN,7_viken
+MØRE OG ROMSDAL,4_møre og romsdal
+HORDALAND,5_vestland
+TROMS,1_troms og finnmark
+VESTFOLD OG TELEMARK,7_vestfold og telemark
+FINNMARK,1_troms og finnmark
+VEST-AGDER,6_rogaland og agder
+SOGN OG FJORDANE,5_vestland
+HEDMARK,7_hedmark
+INNLANDET,7_innlandet
+OSLO,7_oslo
 ANDRE_STK,andre_stk
 APRIL,04
 ARTSID,species
@@ -18,21 +35,16 @@ MAI,05
 MARS,03
 MÅNED,month
 MÅNED_KODE,month_code
-MØRE OG ROMSDAL,møre and romsdal
-NORDLAND,nordland
 NOVEMBER,11
 OKTOBER,10
 REGNBUEØRRET,rainbow trout
 ROGALAND OG AGDER,rogaland and agder
 RØMMING_STK,escape_stk
 SEPTEMBER,09
-TROMS OG FINNMARK,troms and finnmark
-TRØNDELAG,trøndelag
 UOPPGITT,unspoked
 UTKAST_STK,draft_stk
 UTSETTSÅR,release
 UTSETT_SMOLT_STK,postpone_smolt_stk
 UTTAK_KG,outlet_kg
 UTTAK_STK,outlet_stk
-VESTLAND,westland
 ÅR,year
