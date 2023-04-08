@@ -1,4 +1,4 @@
-from,to
+key,value
 2_NORDLAND,1_North
 5_VESTLAND,3_South
 1_TROMS OG FINNMARK,1_North
@@ -10,4 +10,3 @@ from,to
 7_VIKEN,4_Others
 7_OSLO,4_Others
 7_INNLANDET,4_Others
-unspecified,4_Others

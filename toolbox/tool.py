@@ -14,7 +14,7 @@ def translation_dicts(book='no_en'):
         df = dict_county_region
         
     dict_df=pd.read_csv(df)    
-    result=dict(zip(dict_df['from'],dict_df['to']))
+    result=dict(zip(dict_df['key'],dict_df['value']))
     
     return result
 ####################################################################
