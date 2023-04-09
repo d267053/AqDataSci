@@ -1,0 +1,18 @@
+Field_name,Explanation
+Field name,Explanation
+YEAR,Year
+Month_code,"Number code that indicates month.There 1 = January, 2 = February etc."
+MONTH,Month
+County,County
+Species,Species
+Release,Year the fish was put into the sea as smolt.Smolt is definitely as fish under 250 grams
+BeHFISK_STK,"Fish inventory at the end of the month, measured in number of pcs."
+Biomass_kg,Biomass at the end of the month.Biomass is defined as the number of fish multiplied with average weight.Biomass in kg
+Postpone_smolt_stk,Exposed by smolt.Smolt is defined as fish under 250 grams.Number of fish
+Pre -use_kg,"Pre -consumption during the month, measured in number of kg."
+Outlet_stk,"Withdrawal of fish for slaughter, measured in number of pcs."
+Outlet_kg,"Withdrawal of fish for slaughter, measured in tonnes of round weight (WFE).When conversion from craft weight and gutted headache, conversion factors according to NS 9417: 2012 are used"
+Deadfisk_stk,"Loss of fish during the month, recorded as dead fish.Number in pcs."
+Draft_stk,"Loss of fish during the month, recorded as a draft from slack.Number in pcs."
+Escape_stk,"Loss of fish during the month, registered as escape.Number in pcs."
+Andre_stk,"Loss of fish during the month, registered as causes other than dead fish, draft and escape.Number in pcs."

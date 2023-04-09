@@ -1,12 +1,12 @@
 key,value
-2_NORDLAND,1_North
-5_VESTLAND,3_South
-1_TROMS OG FINNMARK,1_North
-6_ROGALAND OG AGDER,3_South
-3_TRØNDELAG,2_Central
-4_MØRE OG ROMSDAL,2_Central
-7_VESTFOLD OG TELEMARK,4_Others
-7_HEDMARK,4_Others
-7_VIKEN,4_Others
-7_OSLO,4_Others
-7_INNLANDET,4_Others
+2_Nordland,1_North
+5_Vestland,3_South
+1_Troms og Finnmark,1_North
+6_Rogaland og Agder,3_South
+3_Trøndelag,2_Central
+4_Møre og Romsdal,2_Central
+7_Vestfold og Telemark,4_Others
+7_Hedmark,4_Others
+7_Viken,4_Others
+7_Oslo,4_Others
+7_Innlandet,4_Others
