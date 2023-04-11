@@ -11,11 +11,11 @@ Please visit https://www.aqdatasci.no/ for data visualizations.
 ### 1. Norwegian Aquaculture
  - **[Aquaculture GIS](https://www.aqdatasci.no/aquaculture/aqua-gis)**
  - **[Salmon feed](https://www.aqdatasci.no/aquaculture/salmon-feed)**  <br>
- ![](https://img.shields.io/badge/Data-processing-green) [Jupyter](https://github.com/d267053/AqDataSci/blob/main/Jupyter%20Notebook/Salmon%20feed.ipynb)
- - **[Salmon production](https://www.aqdatasci.no/aquaculture/salmon-production)** <br>![](https://img.shields.io/badge/Data-processing-green) [Jupyter](https://github.com/d267053/AqDataSci/blob/main/Jupyter%20Notebook/Biomass%20statistics%20by%20county.ipynb)
- - [Salmon biomass](https://www.aqdatasci.no/aquaculture/salmon-biomass)  <br>![](https://img.shields.io/badge/Data-processing-green) [Jupyter](https://github.com/d267053/AqDataSci/blob/main/Jupyter%20Notebook/Biomass%20statistics%20by%20county.ipynb)
+ [![](https://img.shields.io/badge/Data-processing-green)](https://github.com/d267053/AqDataSci/blob/main/Jupyter%20Notebook/Salmon%20feed.ipynb)
+ - **[Salmon production](https://www.aqdatasci.no/aquaculture/salmon-production)** <br>[![](https://img.shields.io/badge/Data-processing-green)](https://github.com/d267053/AqDataSci/blob/main/Jupyter%20Notebook/Biomass%20statistics%20by%20county.ipynb)
+ - **[Salmon biomass](https://www.aqdatasci.no/aquaculture/salmon-biomass)** <br>[![](https://img.shields.io/badge/Data-processing-green)](https://github.com/d267053/AqDataSci/blob/main/Jupyter%20Notebook/Biomass%20statistics%20by%20county.ipynb)
  - **[Salmon price](https://www.aqdatasci.no/aquaculture/salmon-price)**
-  <br>![](https://img.shields.io/badge/Data-processing-green) [Jupyter](https://github.com/d267053/AqDataSci/blob/main/Jupyter%20Notebook/Salmon%20price.ipynb)
+  <br>[![](https://img.shields.io/badge/Data-processing-green)](https://github.com/d267053/AqDataSci/blob/main/Jupyter%20Notebook/Salmon%20price.ipynb)
  - **[Salmon trade](https://www.aqdatasci.no/aquaculture/salmon-trade)**
  
  
@@ -45,5 +45,4 @@ Please visit https://www.aqdatasci.no/ for data visualizations.
 - [Statistics Norway](https://www.ssb.no/en)
 - [Norwegian Fisheries Directorate Open Data](https://www.fiskeridir.no/Tall-og-analyse/AApne-data)
 - [Norwegian Mapping Authority](https://www.kartverket.no/en/about-kartverket)
-
 
