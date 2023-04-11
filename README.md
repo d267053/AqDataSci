@@ -1,4 +1,4 @@
-# AqDataSci
+# Aquaculture Data Science 
 ---
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/d267053/AqDataSci)
@@ -18,7 +18,7 @@ Please visit https://www.aqdatasci.no/ for data visualizations.
 
 ### 2. Aquaculture Environment Interaction
 - [Sea water temperature](https://www.aqdatasci.no/environment/SST)
-- [Biomass density](https://www.aqdatasci.no/aquaculture/environment/biomass-density)
+- [Biomass density](https://www.aqdatasci.no/environment/biomass-density)
 - [Benthic enviroment survey](https://www.aqdatasci.no/environment/seafloor-survey)
 
 ### 3. Fish Health
