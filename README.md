@@ -3,10 +3,9 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/d267053/AqDataSci)
 
-Please visit https://www.aqdatasci.no/ for data visualizations.<br>
+Please visit https://www.aqdatasci.no/ for data visualizations.
 
 ## Content <br>
----
 ### 1. Norwegian Aquaculture
  - [Aquaculture GIS](https://www.aqdatasci.no/aquaculture/aqua-gis)
  - [Salmon feed](https://www.aqdatasci.no/aquaculture/salmon-feed)
@@ -18,14 +17,14 @@ Please visit https://www.aqdatasci.no/ for data visualizations.<br>
  
 
 ### 2. Aquaculture Environment Interaction
-- [Sea water temperature](https://www.aqdatasci.no/aquaculture/SST)
-- [Biomass density](https://www.aqdatasci.no/aquaculture/biomass-density)
-- [Benthic enviroment survey](https://www.aqdatasci.no/aquaculture/seafloor-survey)
+- [Sea water temperature](https://www.aqdatasci.no/environment/SST)
+- [Biomass density](https://www.aqdatasci.no/aquaculture/environment/biomass-density)
+- [Benthic enviroment survey](https://www.aqdatasci.no/environment/seafloor-survey)
 
 ### 3. Fish Health
 - [Sea lice](https://www.aqdatasci.no/fish-health/sea-lice)
-- [Lice treatment](https://www.aqdatasci.no/aquaculture/lice-treatment)
-- [Fish disease](https://www.aqdatasci.no/aquaculture/Fish-Disease)
+- [Lice treatment](https://www.aqdatasci.no/fish-health/lice-treatment)
+- [Fish disease](https://www.aqdatasci.no/fish-health/Fish-Disease)
 
 
 ### 4. Global Aquacultur
