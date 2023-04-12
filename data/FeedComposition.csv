@@ -1,0 +1,13 @@
+,ingredient,category,value (ton),sub_category
+0,plant sources,protein,655314,plant protein
+1,forage fisheries,protein,190277,marine protein
+2,by-products,protein,46362,marine protein
+4,plant sources,oil,328205,plant oil
+5,forage fisheries,oil,126760,marine oil
+6,by-products,oil,42521,marine oil
+8,plant sources,binders,172616,starch
+9,forage fisheries,binders,0,starch
+10,by-products,binders,0,starch
+12,plant sources,microingredients,65422,microingredients
+13,forage fisheries,microingredients,0,microingredients
+14,by-products,microingredients,0,microingredients

@@ -1,0 +1,37 @@
+,year,ingredient,value(%),source
+0,1990,microingredients,1.0,plant source
+1,2000,microingredients,2.0,plant source
+2,2010,microingredients,2.2,plant source
+3,2012,microingredients,3.1,plant source
+4,2013,microingredients,3.7,plant source
+5,2016,microingredients,4.0,plant source
+6,1990,starch,9.6,plant source
+7,2000,starch,11.2,plant source
+8,2010,starch,8.4,plant source
+9,2012,starch,11.1,plant source
+10,2013,starch,11.2,plant source
+11,2016,starch,10.6,plant source
+12,1990,plant oil,0.0,plant source
+13,2000,plant oil,0.0,plant source
+14,2010,plant oil,12.5,plant source
+15,2012,plant oil,18.3,plant source
+16,2013,plant oil,19.2,plant source
+17,2016,plant oil,20.2,plant source
+18,1990,plant protein,0.0,plant source
+19,2000,plant protein,22.2,plant source
+20,2010,plant protein,35.5,plant source
+21,2012,plant protein,36.7,plant source
+22,2013,plant protein,36.7,plant source
+23,2016,plant protein,40.3,plant source
+24,1990,marine oil,24.0,marine source
+25,2000,marine oil,31.1,marine source
+26,2010,marine oil,16.6,marine source
+27,2012,marine oil,11.2,marine source
+28,2013,marine oil,10.9,marine source
+29,2016,marine oil,10.4,marine source
+30,1990,marine protein,65.4,marine source
+31,2000,marine protein,33.5,marine source
+32,2010,marine protein,24.8,marine source
+33,2012,marine protein,19.5,marine source
+34,2013,marine protein,18.3,marine source
+35,2016,marine protein,14.5,marine source
