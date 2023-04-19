@@ -1,0 +1,44 @@
+year,ingredient,source,value(%)
+2020,microingredients,plant source,4.1
+2020,starch,plant source,12.5
+2020,plant oil,plant source,20.1
+2020,plant protein,plant source,40.5
+2020,marine oil,marine source,10.3
+2020,marine protein,marine source,12.1
+2020,other,plant source,0.4
+1990,microingredients,plant source,1.0
+2000,microingredients,plant source,2.0
+2010,microingredients,plant source,2.2
+2012,microingredients,plant source,3.1
+2013,microingredients,plant source,3.7
+2016,microingredients,plant source,4.0
+1990,starch,plant source,9.6
+2000,starch,plant source,11.2
+2010,starch,plant source,8.4
+2012,starch,plant source,11.1
+2013,starch,plant source,11.2
+2016,starch,plant source,10.6
+1990,plant oil,plant source,0.0
+2000,plant oil,plant source,0.0
+2010,plant oil,plant source,12.5
+2012,plant oil,plant source,18.3
+2013,plant oil,plant source,19.2
+2016,plant oil,plant source,20.2
+1990,plant protein,plant source,0.0
+2000,plant protein,plant source,22.2
+2010,plant protein,plant source,35.5
+2012,plant protein,plant source,36.7
+2013,plant protein,plant source,36.7
+2016,plant protein,plant source,40.3
+1990,marine oil,marine source,24.0
+2000,marine oil,marine source,31.1
+2010,marine oil,marine source,16.6
+2012,marine oil,marine source,11.2
+2013,marine oil,marine source,10.9
+2016,marine oil,marine source,10.4
+1990,marine protein,marine source,65.4
+2000,marine protein,marine source,33.5
+2010,marine protein,marine source,24.8
+2012,marine protein,marine source,19.5
+2013,marine protein,marine source,18.3
+2016,marine protein,marine source,14.5
