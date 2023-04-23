@@ -22,6 +22,7 @@ Please visit https://www.aqdatasci.no/ for data visualizations.
 
 ### 2. Aquaculture Environment Interaction
 - **[Sea water temperature](https://www.aqdatasci.no/environment/SST)**
+ <br>[![](https://img.shields.io/badge/Data-processing-green)](https://github.com/d267053/AqDataSci/blob/main/Jupyter%20Notebook/SST.ipynb)
 - **[Biomass density](https://www.aqdatasci.no/environment/biomass-density)**
 - **[Benthic enviroment survey](https://www.aqdatasci.no/environment/seafloor-survey)**
 
